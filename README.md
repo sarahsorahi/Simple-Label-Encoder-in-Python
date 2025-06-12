@@ -15,15 +15,4 @@ Safe handling of unknown classes
 Example-based testing with doctest
 
 
-# Project Structure
-
-
-
-label-encoder/
-├── encoder.py           # The main Encoder class implementation
-├── test_encoder.py      # Optional unit tests
-└── README.md            # Project documentation (this file)
-
-
-
 
